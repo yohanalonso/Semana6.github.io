@@ -17,3 +17,13 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+h1 {
+    color: rgb(0, 18, 216);
+    position: center;
+}
+
+h1::first-letter {
+    color: rgb(209, 5, 5);
+    font-size: 1.5em;
+}
