@@ -7,7 +7,9 @@ body {
     border-radius: 10px;
     height: 400px;
 }
-
+.image:hover{
+    transform: scale(1.2);
+}
 .link-button {
     text-decoration: none;
     color: black;
@@ -26,4 +28,7 @@ h1 {
 
 h1::first-letter {
     font-size: 1.5em;
+}
+.image:hover{
+    transform: scale(1.2);
 }
